@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # topstories.py
 
 """Hacker News: Top Stories.
